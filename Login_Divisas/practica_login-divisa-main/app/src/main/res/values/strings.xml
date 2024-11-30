@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica_Login</string>
+    <string-array name="currencies_array">
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Pesos Mexicanos</item>
+    </string-array>
+    <string name="resultado">Resultado: </string>
+    <string name="convertir">Conversión</string>
+    <string name="Monto">Ingresar monto en Soles</string>
+    <string name="cerrar">Cerrar Sesión</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
